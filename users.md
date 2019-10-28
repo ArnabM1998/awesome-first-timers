@@ -527,4 +527,9 @@
 - Name: Sayantan Das  
   Place: Kolkata, India  
   Bio: student (CSE), B.Tech 1st year  
-  GitHub: [sayantanDs](https://github.com/sayantanDs)  
+  GitHub: [sayantanDs](https://github.com/sayantanDs) 
+  
+- Name: Arnab Mondal  
+  Place: Durgapur, WB, India  
+  Bio: Student (CSE), B.Tech 3rd year  
+  GitHub: [ArnabM1998](https://github.com/ArnabM1998) 
